@@ -15,7 +15,7 @@ authors = [
 ]
 maintainers = [
     { name = "Radi Mustafa", email = "mus.radi85@gmail.com" },
-    { name = "Abhyudai"},
+    { name = "Abhyudai", email = "5ifocyqgf@relay.firefox.com"},
 ]
 classifiers = [
     "Environment :: Web Environment",
