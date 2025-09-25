@@ -15,6 +15,7 @@ authors = [
 ]
 maintainers = [
     { name = "Radi Mustafa", email = "mus.radi85@gmail.com" },
+    { name = "Abhyudai"},
 ]
 classifiers = [
     "Environment :: Web Environment",
@@ -42,9 +43,9 @@ dependencies = [
 markdown = ["markdown"]
 
 [project.urls]
-Homepage = "https://github.com/radi85/Comment"
-Documentation = "https://django-comment-dab.readthedocs.io/index.html"
-"Source Code" = "https://github.com/radi85/Comment"
+Homepage = "https://github.com/abhiabhi94/Comment"
+Documentation = "https://comment.readthedocs.io/index.html"
+"Source Code" = "https://github.com/abhiabhi94/Comment"
 
 [tool.hatch.version]
 path = "VERSION"

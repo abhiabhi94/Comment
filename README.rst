@@ -6,24 +6,24 @@
     :target: https://pypi.python.org/pypi/django-comments-dab/
     :alt: django
 
-.. image:: https://codecov.io/gh/radi85/Comment/branch/develop/graph/badge.svg?token=JBorE9i0De
-    :target: https://codecov.io/gh/radi85/Comment
+.. image:: https://codecov.io/gh/abhiabhi94/Comment/branch/develop/graph/badge.svg?token=JBorE9i0De
+    :target: https://codecov.io/gh/abhiabhi94/Comment
     :alt: Coverage
 
-.. image:: https://github.com/radi85/Comment/actions/workflows/tests.yml/badge.svg?branch=develop
-    :target: https://github.com/radi85/Comment/actions
+.. image:: https://github.com/abhiabhi94/Comment/actions/workflows/tests.yml/badge.svg?branch=develop
+    :target: https://github.com/abhiabhi94/Comment/actions
     :alt: Test
 
 .. image:: https://readthedocs.org/projects/django-comment-dab/badge/?version=latest
     :target: https://django-comment-dab.readthedocs.io/?badge=latest
     :alt: docs
 
-.. image:: https://img.shields.io/github/contributors/radi85/Comment
-    :target: https://github.com/Radi85/Comment/graphs/contributors
+.. image:: https://img.shields.io/github/contributors/abhiabhi94/Comment
+    :target: https://github.com/abhiabhi94/Comment/graphs/contributors
     :alt: contributors
 
-.. image:: https://img.shields.io/github/license/radi85/Comment?color=gr
-    :target: https://github.com/Radi85/Comment/blob/develop/LICENSE
+.. image:: https://img.shields.io/github/license/abhiabhi94/Comment?color=gr
+    :target: https://github.com/abhiabhi94/Comment/blob/develop/LICENSE
     :alt: licence
 
 .. image:: https://img.shields.io/pypi/dm/django-comments-dab
@@ -33,15 +33,15 @@
     :target: https://pypi.org/project/django-comments-dab/
     :alt: pypi
 
-.. image:: https://img.shields.io/github/v/tag/radi85/Comment?color=gr
-    :target: https://github.com/Radi85/Comment/releases
+.. image:: https://img.shields.io/github/v/tag/abhiabhi94/Comment?color=gr
+    :target: https://github.com/abhiabhi94/Comment/releases
     :alt: tag
 
-.. image:: https://img.shields.io/github/release-date/radi85/comment?color=blue
+.. image:: https://img.shields.io/github/release-date/abhiabhi94/Comment?color=blue
     :target: #
     :alt: Django-comment-dab Release Date
 
-.. image:: https://img.shields.io/github/commits-since/radi85/comment/latest/develop
+.. image:: https://img.shields.io/github/commits-since/abhiabhi94/Comment/latest/develop
     :target: #
     :alt: Commits since latest release for a branch develop
 
@@ -58,10 +58,10 @@ Thanks https://www.pythonanywhere.com/
 
 Full Documentation_
 
-.. _Documentation: https://django-comment-dab.readthedocs.io/
+.. _Documentation: https://comment.readthedocs.io/
 
 
-    .. image:: https://github.com/radi85/comment/blob/develop/docs/_static/img/comment.gif
+    .. image:: https://github.com/abhiabhi94/Comment/blob/develop/docs/_static/img/comment.gif
 
 
 Content:
@@ -136,7 +136,7 @@ or via source on github
 
 ::
 
-    $ git clone https://github.com/radi85/Comment.git
+    $ git clone https://github.com/abhiabhi94/Comment.git
     $ cd Comment
     $ python setup.py install
 
@@ -244,7 +244,7 @@ In the template (e.g. post_detail.) add the following template tags where ``obj`
 
 For advanced usage and other documentation, you may read the Documentation_ or look at the docs_ directory in the repository.
 
-.. _docs: https://github.com/Radi85/Comment/tree/develop/docs
+.. _docs: https://github.com/abhiabhi94/Comment/tree/develop/docs
 
 .. _Example:
 
@@ -255,7 +255,7 @@ You can play with the example app using local virtual environment
 
 .. code:: bash
 
-    $ git clone https://github.com/Radi85/Comment.git  # or clone your forked repo
+    $ git clone https://github.com/abhiabhi94/Comment.git  # or clone your forked repo
     $ cd Comment
     $ python3 -m venv local_env  # or any name. local_env is in .gitignore
     $ export DEBUG=True
@@ -270,7 +270,7 @@ Or run with docker
 
 .. code:: bash
 
-    $ git clone https://github.com/Radi85/Comment.git  # or clone your forked repo
+    $ git clone https://github.com/abhiabhi94/Comment.git  # or clone your forked repo
     $ cd Comment
     $ docker-compose up
 
@@ -293,4 +293,4 @@ Contributing
 
 For contributing, please see the guidelines at Contributing_
 
-.. _Contributing: https://github.com/Radi85/Comment/blob/develop/CONTRIBUTING.rst
+.. _Contributing: https://github.com/abhiabhi94/Comment/blob/develop/CONTRIBUTING.rst

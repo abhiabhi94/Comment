@@ -11,8 +11,8 @@ An issue with a `good first`_ label might be a good place to start with.
 
 You can also try to take up an issue tagged with an `upcoming release`_.
 
-.. _`good first`: https://github.com/Radi85/Comment/issues?q=is%3Aopen+is%3Aissue+label%3A"good+first+issue"
-.. _`upcoming release`: https://github.com/Radi85/Comment/milestones
+.. _`good first`: https://github.com/abhiabhi94/Comment/issues?q=is%3Aopen+is%3Aissue+label%3A"good+first+issue"
+.. _`upcoming release`: https://github.com/abhiabhi94/Comment/milestones
 
 
 PR and commit messages
@@ -22,7 +22,7 @@ PR and commit messages
 
 Refer to `#125`_
 
-.. _`#125`: https://github.com/Radi85/Comment/discussions/125
+.. _`#125`: https://github.com/abhiabhi94/Comment/discussions/125
 
 In order to keep the default branch clean and up to date with the current release, all PR shall be merged with ``develop`` branch.
 

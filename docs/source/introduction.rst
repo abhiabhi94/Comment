@@ -5,16 +5,16 @@ django-comments-dab
     :target: https://pypi.org/project/django-comments-dab/
     :alt: pypi
 
-.. image:: https://img.shields.io/github/v/tag/radi85/Comment?color=gr
-    :target: https://github.com/Radi85/Comment/releases
+.. image:: https://img.shields.io/github/v/tag/abhiabhi94/Comment?color=gr
+    :target: https://github.com/abhiabhi94/Comment/releases
     :alt: tag
 
 .. image:: https://img.shields.io/pypi/djversions/django-comments-dab.svg
     :target: https://pypi.python.org/pypi/django-comments-dab/
     :alt: django
 
-.. image:: https://codecov.io/gh/radi85/Comment/branch/main/graph/badge.svg?token=JBorE9i0De
-    :target: https://codecov.io/gh/radi85/Comment
+.. image:: https://codecov.io/gh/abhiabhi94/Comment/branch/main/graph/badge.svg?token=JBorE9i0De
+    :target: https://codecov.io/gh/abhiabhi94/Comment
     :alt: Coverage
 
 .. image:: https://img.shields.io/pypi/pyversions/django-comments-dab.svg
@@ -29,12 +29,12 @@ django-comments-dab
     :target: https://django-comment-dab.readthedocs.io/?badge=latest
     :alt: docs
 
-.. image:: https://img.shields.io/github/contributors/radi85/Comment
-    :target: https://github.com/Radi85/Comment/graphs/contributors
+.. image:: https://img.shields.io/github/contributors/abhiabhi94/Comment
+    :target: https://github.com/abhiabhi94/Comment/graphs/contributors
     :alt: contributors
 
-.. image:: https://img.shields.io/github/license/radi85/Comment?color=gr
-    :target: https://github.com/Radi85/Comment/blob/master/LICENSE
+.. image:: https://img.shields.io/github/license/abhiabhi94/Comment?color=gr
+    :target: https://github.com/abhiabhi94/Comment/blob/master/LICENSE
     :alt: licence
 
 .. image:: https://img.shields.io/pypi/dm/django-comments-dab
