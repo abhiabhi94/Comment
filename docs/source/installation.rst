@@ -24,7 +24,7 @@ or via source on github
 
 ::
 
-    $ git clone https://github.com/radi85/Comment.git
+    $ git clone https://github.com/abhiabhi94/Comment.git
     $ cd Comment
     $ python setup.py install
 

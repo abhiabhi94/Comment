@@ -3,7 +3,7 @@ Style Customization
 
 Some actual customizations has been done in the example_ project
 
-.. _example: https://github.com/Radi85/Comment/tree/master/test/example
+.. _example: https://github.com/abhiabhi94/Comment/tree/master/test/example
 
 1- Templates and default blocks:
 --------------------------------

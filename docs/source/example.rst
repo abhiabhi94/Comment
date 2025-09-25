@@ -5,7 +5,7 @@ Using local virtual env
 
 .. code:: bash
 
-    $ git clone https://github.com/Radi85/Comment.git  # or clone your forked repo
+    $ git clone https://github.com/abhiabhi94/Comment.git  # or clone your forked repo
     $ cd Comment
     $ python3 -m venv local_env  # or any name. local_env is in .gitignore
     $ export DEBUG=True
@@ -20,7 +20,7 @@ Or run with docker
 
 .. code:: bash
 
-    $ git clone https://github.com/Radi85/Comment.git  # or clone your forked repo
+    $ git clone https://github.com/abhiabhi94/Comment.git  # or clone your forked repo
     $ cd Comment
     $ docker-compose up
 
