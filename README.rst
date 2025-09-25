@@ -138,7 +138,7 @@ or via source on github
 
     $ git clone https://github.com/abhiabhi94/Comment.git
     $ cd Comment
-    $ python setup.py install
+    $ pip install .
 
 
 Comment Settings and urls:
