@@ -1,22 +1,6 @@
 django-comments-dab
 ===================
 
-.. image:: https://badge.fury.io/py/django-comments-dab.svg
-    :target: https://pypi.org/project/django-comments-dab/
-    :alt: pypi
-
-.. image:: https://img.shields.io/github/v/tag/abhiabhi94/Comment?color=gr
-    :target: https://github.com/abhiabhi94/Comment/releases
-    :alt: tag
-
-.. image:: https://img.shields.io/pypi/djversions/django-comments-dab.svg
-    :target: https://pypi.python.org/pypi/django-comments-dab/
-    :alt: django
-
-.. image:: https://codecov.io/gh/abhiabhi94/Comment/branch/main/graph/badge.svg?token=JBorE9i0De
-    :target: https://codecov.io/gh/abhiabhi94/Comment
-    :alt: Coverage
-
 .. image:: https://img.shields.io/pypi/pyversions/django-comments-dab.svg
     :target: https://pypi.python.org/pypi/django-comments-dab/
     :alt: python
@@ -25,20 +9,21 @@ django-comments-dab
     :target: https://pypi.python.org/pypi/django-comments-dab/
     :alt: django
 
+.. image:: https://img.shields.io/github/license/abhiabhi94/Comment?color=gr
+    :target: https://github.com/abhiabhi94/Comment/blob/develop/LICENSE
+    :alt: license
+
 .. image:: https://readthedocs.org/projects/django-comment-dab/badge/?version=latest
     :target: https://django-comment-dab.readthedocs.io/?badge=latest
     :alt: docs
 
-.. image:: https://img.shields.io/github/contributors/abhiabhi94/Comment
-    :target: https://github.com/abhiabhi94/Comment/graphs/contributors
-    :alt: contributors
+.. image:: https://github.com/abhiabhi94/Comment/actions/workflows/tests.yml/badge.svg?branch=develop
+    :target: https://github.com/abhiabhi94/Comment/actions
+    :alt: Test
 
-.. image:: https://img.shields.io/github/license/abhiabhi94/Comment?color=gr
-    :target: https://github.com/abhiabhi94/Comment/blob/master/LICENSE
-    :alt: licence
-
-.. image:: https://img.shields.io/pypi/dm/django-comments-dab
-    :alt: downloads
+.. image:: https://codecov.io/gh/abhiabhi94/Comment/branch/develop/graph/badge.svg?token=JBorE9i0De
+    :target: https://codecov.io/gh/abhiabhi94/Comment
+    :alt: Coverage
 
 
 .. image:: ../_static/img/comment.gif
