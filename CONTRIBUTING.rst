@@ -15,38 +15,6 @@ You can also try to take up an issue tagged with an `upcoming release`_.
 .. _`upcoming release`: https://github.com/abhiabhi94/Comment/milestones
 
 
-PR and commit messages
-^^^^^^^^^^^^^^^^^^^^^^^
-
-**Pull Requests**
-
-Refer to `#125`_
-
-.. _`#125`: https://github.com/abhiabhi94/Comment/discussions/125
-
-In order to keep the default branch clean and up to date with the current release, all PR shall be merged with ``develop`` branch.
-
-**Commit messages**
-
-Use one commit per issue and try to keep the first line within 50 characters.
-
-Need more? use the commit body.
-
-The commit message should reference the issue number in the header (first line) like so:
-
-feat(*#NUMBER*): YOUR COMMIT
-
-**headers:**
-
-- feat(*#NUMBER*) for adding new feature
-- fix(*#NUMBER*) for fixing a bug
-- ref(*#NUMBER*) for code refactoring and enhancement
-- test(*#NUMBER*) for adding, fixing or adjusting tests
-- doc(*#NUMBER*) for documentation
-- chore(*#NUMBER*) Changes to the build process, new releases and work doesn't relate to any of the previous header
-
-The issue number can be skipped if not available..
-
 Development
 ^^^^^^^^^^^
 
@@ -115,4 +83,4 @@ Translations
 
 To add translations in your native language, please take a look at the `guidelines for translators`_.
 
-.. _`guidelines for translators`: https://django-comment-dab.readthedocs.io/en/latest/i18n.html#adding-support-for-translation
+.. _`guidelines for translators`: https://comment.readthedocs.io/en/latest/i18n.html#adding-support-for-translation
